@@ -13,10 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Olá! Eu sou o Ademar Fernandes Jr
+- 🔭 Eu trabalho desde 2000 com desenvolvimento AdvPL
+- 🌱 Atualmente estou aprendendo mais sobre Html, Css e Python
+
 <div>
   <a href="https://github.com/ademarfernandes">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ademarfernandes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademarfernandes&layout=compact&langs_count=7&theme=merko"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ademarfernandes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademarfernandes&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="AMFJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
