@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Olá! Eu sou o Ademar Fernandes Jr
-- 🔭 Eu trabalho desde 2000 com desenvolvimento AdvPL
-- 🌱 Atualmente estou aprendendo mais sobre Html, Css e Python
+## Olá! Sou o Ademar Fernandes Jr
+- 🔭 Eu trabalho desde 2000 com desenvolvimento AdvPL (xBase)
+- 🌱 Atualmente estou aprendendo mais sobre Html, Css, JavaScript e Python
 
 <div>
   <a href="https://github.com/ademarfernandes">
